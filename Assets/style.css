@@ -1,8 +1,10 @@
 .arena {
     background-image: url(images/Arena.jpg);
-    height: 720px;
+    height: 425px;
     border-style: double;
     border-color: red;
+    margin-right: 0%;
+ 
 }
 body {
     background-image: url(images/sandpaper.png);
@@ -15,7 +17,7 @@ body {
     color: yellow;
 }
 .status {
-    color: white;
+    color: black;
 }
 
 .champ-health, .chall-health {
