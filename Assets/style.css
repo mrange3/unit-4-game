@@ -1,0 +1,34 @@
+.arena {
+    background-image: url(images/Arena.jpg);
+    height: 720px;
+    border-style: double;
+    border-color: red;
+}
+body {
+    background-image: url(images/sandpaper.png);
+}
+
+.red{
+    color: red;
+}
+.yellow {
+    color: yellow;
+}
+.status {
+    color: white;
+}
+
+.champ-health, .chall-health {
+    color: green;
+}
+
+.champ-attack, .chall-attack {
+    color: red;
+}
+
+.champ-counter, .chall-counter {
+    color: blue;
+}
+.champ-name, .chall-name {
+    font-weight: bold;
+}
