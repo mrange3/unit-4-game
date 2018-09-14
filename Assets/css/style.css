@@ -1,5 +1,5 @@
 .arena {
-    background-image: url(images/Arena.jpg);
+    background-image: url(../images/Arena.jpg);
     height: 425px;
     border-style: double;
     border-color: red;
@@ -7,7 +7,7 @@
  
 }
 body {
-    background-image: url(images/sandpaper.png);
+    background-image: url(../images/sandpaper.png);
 }
 
 .red{
